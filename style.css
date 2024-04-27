@@ -1,0 +1,146 @@
+
+.second{
+    height: 500px;
+    width: 100%;
+    position: absolute;
+
+}
+.second img{
+    height: 500px;
+    width: 100%;
+    position: absolute;
+}
+.sectext{
+    width: 500px;
+    position: relative;
+    justify-content: start;
+    padding-top: 100px;
+    padding-left:90px ;
+}
+.mid{
+    background-color: #ffff;
+    height: 200px;
+    width: 900px;
+    border-radius: 15px;
+   
+    position: relative;
+    margin-top: 400px;
+    border-radius: 38px;
+box-shadow: -42px 24px 163px #868585,
+42px -18px 119px #a4e4ed
+}
+.var button{
+    height: 50px;
+    width: 50px;
+ margin-left: 40px; 
+ margin-top: 25px; 
+ border: none;
+ background-color:#ffff;
+
+}
+.var button:hover{
+    border: 1px solid gold;
+    transform: scale(1.1);
+    transition: .3s;
+   
+}
+.var p{
+ 
+  font-size:15px;
+}
+.pic img{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin-top: 50px;
+    margin-left: 65px;
+}
+.pict picture{
+    padding: 40px;
+}
+.picture{
+    margin-left: 20px;
+    margin-top: -140px;
+}
+.picture img{
+    position: absolute;
+}
+.picture h5{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: gainsboro;
+}
+.sec4{
+    margin-left: 90px;
+}
+.menu button{
+   height:50px ;
+   width: 50px;
+   border: none;
+   background-color: rgba(149, 192, 229, 0.667);
+   border-radius: 50px;
+}
+.menu p{
+    font-size: 20px;
+    color: grey;
+}
+.vid iframe{
+  border-radius: 20px;
+}
+.pic2 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin-top: 50px;
+    margin-left: 55px;
+}
+.blue{
+    background-color: rgba(149, 192, 229, 0.667);
+    border-radius: 20px;
+    height: 250px;
+    margin-top: 90px;
+}
+.photo img{
+    height: 300px;
+    width: 150px;
+    margin-left: 20px;
+    border-radius: 20px;
+   
+}
+.but1{
+    position: relative;
+    height: 140px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    margin-left:190px;
+    border: none;
+    border-radius: 20px;
+    margin-top: -170px;
+    padding: 20px;
+}
+.rr.row{
+    --bs-gutter-x: -0.5rem;
+  padding-left: 40px; 
+}
+.rr li{
+    list-style: none;
+    color: #868585;
+}
+.foot{
+    align-items: center;
+    justify-content: center;
+    margin-left: 500px;
+}
+.rrr button{
+    background-color: rgba(149, 192, 229, 0.667);
+    border: none;
+    border-radius: 50px;
+    margin-left:20px;
+    color: aliceblue;
+}
+.rrr button:hover{
+    background-color:rgba(0, 136, 255, 0.667) ;
+    color: #ffff;
+    transform: scale(1.5);
+}
